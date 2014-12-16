@@ -10,6 +10,4 @@ Notes:
   - You need the required SDK to compile this App on your computer
   - This Appp ment for education purpose only
 
-APK version is available in APK folder
-
 A photo of the app from the emulator is also available in Emulator_Bild folder

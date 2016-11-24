@@ -10,4 +10,4 @@ Notes:
   - You need the required SDK to compile this App on your computer
   - This App meant for education purpose only
 
-A photo of the app from the emulator is also available in Emulator_Bild folder
+<div style="text-align:center" alt="a photo of the app from the emulator"><img src ="/Emulator_Bild/Capture.PNG" /></div>
